@@ -15,7 +15,7 @@ function App() {
         <div className="content">
           <Routes>
             <Route path="/Store-Reactjs/" element={<Produtos />} />
-            <Route path="Store-Reactjs/produto/:id" element={<Produto />} />
+            <Route path="/Store-Reactjs/produto/:id" element={<Produto />} />
             <Route path="/Store-Reactjs/contato" element={<Contato />} />
           </Routes>
         </div>
