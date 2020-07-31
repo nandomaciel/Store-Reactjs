@@ -10,7 +10,7 @@ const Header = () => {
           <NavLink 
             activeClassName={styles.active} 
             className={styles.link} 
-            to="/Store-Reactjs" 
+            to="/" 
             end
           >
             Produtos
@@ -20,7 +20,7 @@ const Header = () => {
           <NavLink 
             activeClassName={styles.active} 
             className={styles.link} 
-            to="/Store-Reactjs/contato"
+            to="contato"
           >
             Contato
           </NavLink>
