@@ -20,7 +20,6 @@ const Produtos = () => {
         <Link to={`produto/${produto.id}`} key={produto.id}>
           <img src={produto.fotos[0].src} alt={produto.fotos[0].titulo} />
           <h1>{produto.nome}</h1>
-
         </Link>
       ))}
     </section>
