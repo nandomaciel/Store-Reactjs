@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Store-Reactjs/static/css/main.7eb1fce0.chunk.css",
-    "main.js": "/Store-Reactjs/static/js/main.5136ddae.chunk.js",
-    "main.js.map": "/Store-Reactjs/static/js/main.5136ddae.chunk.js.map",
+    "main.js": "/Store-Reactjs/static/js/main.14c8c8fa.chunk.js",
+    "main.js.map": "/Store-Reactjs/static/js/main.14c8c8fa.chunk.js.map",
     "runtime-main.js": "/Store-Reactjs/static/js/runtime-main.d859f66c.js",
     "runtime-main.js.map": "/Store-Reactjs/static/js/runtime-main.d859f66c.js.map",
     "static/js/2.ce5112a0.chunk.js": "/Store-Reactjs/static/js/2.ce5112a0.chunk.js",
     "static/js/2.ce5112a0.chunk.js.map": "/Store-Reactjs/static/js/2.ce5112a0.chunk.js.map",
     "index.html": "/Store-Reactjs/index.html",
-    "precache-manifest.27f47affa8ed01941a8aa89a7e4c39ed.js": "/Store-Reactjs/precache-manifest.27f47affa8ed01941a8aa89a7e4c39ed.js",
+    "precache-manifest.0ee774c559990fc879818263aeec8e10.js": "/Store-Reactjs/precache-manifest.0ee774c559990fc879818263aeec8e10.js",
     "service-worker.js": "/Store-Reactjs/service-worker.js",
     "static/css/main.7eb1fce0.chunk.css.map": "/Store-Reactjs/static/css/main.7eb1fce0.chunk.css.map",
     "static/js/2.ce5112a0.chunk.js.LICENSE.txt": "/Store-Reactjs/static/js/2.ce5112a0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d859f66c.js",
     "static/js/2.ce5112a0.chunk.js",
     "static/css/main.7eb1fce0.chunk.css",
-    "static/js/main.5136ddae.chunk.js"
+    "static/js/main.14c8c8fa.chunk.js"
   ]
 }
